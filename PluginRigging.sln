@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginRigging", "PluginRigging\PluginRigging.csproj", "{55AD751B-7038-4A6C-8E05-F6900C318439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55AD751B-7038-4A6C-8E05-F6900C318439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AD751B-7038-4A6C-8E05-F6900C318439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AD751B-7038-4A6C-8E05-F6900C318439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AD751B-7038-4A6C-8E05-F6900C318439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DA98DC-470A-408F-AC5C-82D518B85B06}
+	EndGlobalSection
+EndGlobal
